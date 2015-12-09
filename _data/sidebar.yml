@@ -58,6 +58,7 @@
         - analytics_adjust
         - analytics_appboy
         - analytics_localytics
+        - analytics_segment
         - analytics_mixpanel
         - referrals_referral_saasquatch
     - type: reference
