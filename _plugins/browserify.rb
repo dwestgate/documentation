@@ -8,7 +8,7 @@ module Jekyll
     priority :low
 
     def matches(ext)
-      ext =~ /^\.jsx?$/i
+      ext =~ /^\.js$/i
     end
 
     def output_ext(ext)
