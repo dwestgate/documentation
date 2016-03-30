@@ -209,7 +209,7 @@ Let's say you want a webhook to fire for all `install` events driven by a single
 
 Since these filters are ANDs (not ORs), both filter values must be satisfied at the time of the event for the webhook to fire. In this example, that means **only** someone installing your app after clicking the Branch link with an ID of 12345 will fire this webhook.
 
-The picture below show cases what a webhook would look like with proper filters.
+The picture below shows a webhook with properly-configured filters.
 
 {% image src="/img/pages/getting-started/webhooks/filters1.png" 3-quarters center alt="webhook filter configuration" %}
 
