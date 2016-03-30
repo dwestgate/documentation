@@ -469,8 +469,6 @@ The [Influencers page](https://dashboard.branch.io/#/referrals/influencers) on t
 
 ## Previewing and debugging links
 
-If you want to get an idea of what your links will look when shared on social media, Facebook's [OG tag tester tool](https://developers.facebook.com/tools/debug/og/object) can be useful.
-
-This will show you all the meta data for your link, and a preview of what it will look like when shared on Facebook.
+If you want to get an idea of how your links will look when shared on social media, Facebook's [OG tag tester tool](https://developers.facebook.com/tools/debug/og/object) will display your link's metadata along with a preview of what it will look like when shared on Facebook.
 
 {% endif %}
